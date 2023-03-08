@@ -1,0 +1,64 @@
+1. Why is Java so popular?
+*Its codes are easy to understand and troubleshoot
+*JRE makes Java independent
+JRE- Java Runtime Environment- is the reason why Java can run consistently across platforms.
+All a programmer needs to do is install JRE to a computer and all of his Java programs will be good to go, where they were developed at notwithstanding.
+On top of running smoothly on computers- Macs, Linux, or even Windows, JRE is also compatible with mobile phones.
+That is the independence and flexibility that a programmer needs from a coding language in order to grow his/her career, especially if he/she is a newbie.
+* Java API makes Java versatile
+Java API provides programmers with thousands of classes and about 50 keywords to work with. It also allows programmers to use coding methods that run to tens of thousands.
+That makes Java versatile and accommodative to as many coding ideas a programmer could have.
+That is not all; Java API isn’t too complex for a newbie to master and all one needs to get started is to learn a portion of it.
+Once you are able to comfortably work with the utility functions of Java, you can learn everything else on the job.
+* It is easy to reuse common codes in Java
+*Java programming is adaptable, strong, and stable
+
+Because you can run Java both on computers and mobile devices, it’s true to say that the language’s dialect is universally adaptable.
+On the other hand, you can run Java both on a large and small scale, meaning that its codes are strong and stable.
+And as we mentioned, there aren’t any limitations with Java; you can even develop translation software using this language.
+*****
+The portability of Java contributes to its wide use and popularity, but there are other reasons why software developers continue to choose Java.
+
+Since it is an object-oriented language; it’s robust, secure and relatively simpler and easier to learn than languages such as C and C++.
+
+Object-oriented languages make complex problems easier to solve and provide greater modularity.
+This is a natural and pragmatic approach for software design. Java objects encapsulate data and behavior so that code can be reused, which makes testing and troubleshooting easier.
+
+With Java, objects are created using classes that define the attributes (data) and behaviors (defined by methods coded in the class). Java features such as inheritance further contribute to simplified code.
+With inheritance, similar but different types of objects are simplified by inheriting common attributes and behaviors from the parent class. This allows reuse of the common code while allowing for differences.
+
+2. What are the different kinds of variables defined in Java Programming language?
+-->Local Variable
+A variable declared inside the body of the method is called local variable. You can use this variable only within that method and the other methods in the class aren't even aware that the variable exists.
+A local variable cannot be defined with "static" keyword.
+
+-->Instance Variable
+A variable declared inside the class but outside the body of the method, is called an instance variable. It is not declared as static.
+It is called an instance variable because its value is instance-specific and is not shared among instances.
+
+-->Static variable
+A variable that is declared as static is called a static variable. It cannot be local.
+You can create a single copy of the static variable and share it among all the instances of the class.
+Memory allocation for static variables happens only once when the class is loaded in the memory.
+
+3.    What is class?
+It is a template used to create objects and to define object data types and methods.it is a blueprint
+
+4.    What is object?
+What is mean by object in Java?
+A Java object is a member (also called an instance) of a Java class. Each object has an identity, a behavior and a state.
+The state of an object is stored in fields (variables), while methods (functions) display the object's behavior.
+Objects are created at runtime from templates, which are also known as classes.
+
+5.    What is the state and behavior of an object?
+The state of an object is stored in fields (variables), while methods (functions) display the object's behavior.
+dogs have state (name, color, breed, hungry) and behavior (barking, fetching, and wagging tail).
+
+6.    What is object-oriented programming?
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic.
+An object can be defined as a data field that has unique attributes and behavior.
+The organization of an object-oriented program also makes the method beneficial to collaborative development, where projects are divided into groups.
+Additional benefits of OOP include code reusability, scalability and efficiency.
+
+7.    What are the key principles (main features) of object-oriented programming?
+abstraction,encapsulation,inheritance,polimorfizm
